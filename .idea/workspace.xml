@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c9cd8f9-7454-4c7c-88b3-e045fc831239" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/miaosha_1_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/miaosha_1_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/MiaoshaController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/dao/GoodsDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/dao/OrderDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/pojo/Goods.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/pojo/MiaoshaGoods.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/pojo/MiaoshaOrder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/pojo/OrderInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/GoodsService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/MiaoshaService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/OrderService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/GoodsVo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/img/iphonex.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/img/meta10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/goods_detail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/miaosha_fail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/order_detail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/img/iphonex.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/img/meta10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/goods_detail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/miaosha_fail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/order_detail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/bootstrap/js/npm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/img/iphonex.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/img/meta10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/jquery-validation/additional-methods.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/jquery-validation/jquery.validate.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/jquery-validation/localization/messages_zh.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/js/md5.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/mobile/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/mobile/need/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/skin/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/skin/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/skin/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/skin/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/skin/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/static/layer/skin/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/templates/goods_detail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/templates/goods_list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/templates/hello.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/templates/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/templates/miaosha_fail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/miaosha_1-0.0.4-SNAPSHOT/WEB-INF/classes/templates/order_detail.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/miaosha_1.iml" afterPath="$PROJECT_DIR$/miaosha_1.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/config/UserArgumentResolver.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/config/UserArgumentResolver.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/DemoController.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/DemoController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/GoodsController.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/GoodsController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/pojo/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/pojo/User.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/result/CodeMsg.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/result/CodeMsg.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/UserService.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/goods_list.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/goods_list.html" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/controller/DemoController.class" afterPath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/controller/DemoController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/pojo/User.class" afterPath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/pojo/User.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/result/CodeMsg.class" afterPath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/result/CodeMsg.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/com/imooc/miaosha/service/UserService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/goods_list.html" afterPath="$PROJECT_DIR$/target/classes/templates/goods_list.html" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +17,7 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="534">
               <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
               <folding />
             </state>
@@ -606,12 +527,12 @@
       <workItem from="1560255458315" duration="8380000" />
       <workItem from="1560306892776" duration="9989000" />
       <workItem from="1560339716502" duration="4992000" />
-      <workItem from="1560390100672" duration="1146000" />
+      <workItem from="1560390100672" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119007000" />
+    <option name="totallyTimeSpent" value="119185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -642,9 +563,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33873144" sideWeight="0.75642675" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33873144" sideWeight="0.75642675" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23346828" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23346828" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24927954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1050,7 +971,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="534">
           <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
           <folding />
         </state>
