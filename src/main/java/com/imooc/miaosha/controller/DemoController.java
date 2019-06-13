@@ -44,14 +44,7 @@ public class DemoController {
 	 		return Result.createByErrorMessage("失败");
 	 		//return new Result(500102, "XXX");
 	    }
-		@RequestMapping("/getUser")
-		@ResponseBody
-	    public Result<User> getUserByName(String name){
-	 		if(name.equals("yang")){
-	 			User user = new User(1,"yang","123456");
-	 			return Result.createBySuccessMessageDate(CodeMsg.SUCCESS.getDesc(),user);
-			}else return Result.createByErrorMessage("cha wu ci ren");
-		}
+
 	 	@RequestMapping("/thymeleaf")
 		@ResponseBody
 	    public String  thymeleaf(Model model) {

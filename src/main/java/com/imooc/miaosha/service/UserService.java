@@ -15,7 +15,6 @@ public class UserService {
     public User tx(){
         User u1 = new User();
         u1.setName("yangyangyang");
-        u1.setPassword("yang");
         userDao.insert(u1);
 
         User u2 = new User();
